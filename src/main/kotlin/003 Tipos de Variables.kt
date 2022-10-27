@@ -8,6 +8,7 @@
   Short
   Int
   Long
+  *
 * */
 fun main() {
 }
