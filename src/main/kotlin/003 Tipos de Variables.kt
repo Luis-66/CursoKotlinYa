@@ -18,7 +18,7 @@ fun main() {
     ejercicio2()
 }
 
-fun problema1() {
+private fun problema1() {
     /*
     Crear un programa que defina dos variables inmutables de tipo Int.
     Luego definir una tercer variable mutable que almacene la suma de las dos
@@ -38,7 +38,7 @@ fun problema1() {
 
 }
 
-fun ejercicio1() {
+private fun ejercicio1() {
     /*
     Definir una variable inmutable con el valor 50 que representa el lado de un cuadrado,
     en otras dos variables inmutables almacenar la superficie y el perímetro del cuadrado.
@@ -55,7 +55,7 @@ fun ejercicio1() {
 
 
 }
-fun ejercicio2() {
+private fun ejercicio2() {
     /*
     Definir tres variables inmutables y cargar por asignación los pesos de tres personas
     con valores Float. Calcular el promedio de pesos de las personas y mostrarlo.
